@@ -1,0 +1,23 @@
+{
+  "name": "article_coverage",
+  "version": "1.0.0",
+  "description": "Using Google Search Query parameters and Puppeteer to check how many results are returned for a specific newspaper, over a time interval.",
+  "main": "coverage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marquesafonso/article_coverage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marquesafonso/article_coverage/issues"
+  },
+  "homepage": "https://github.com/marquesafonso/article_coverage#readme",
+  "dependencies": {
+    "puppeteer": "^12.0.1"
+  }
+}
